@@ -14,7 +14,7 @@ import (
 	"image"
 	"image/color"
 
-	"gocv.io/x/gocv"
+	"github.com/xuxiaoshuo/gocv"
 )
 
 var w = 400

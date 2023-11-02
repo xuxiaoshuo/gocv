@@ -32,7 +32,7 @@ import (
 	"image/color"
 	"math"
 
-	"gocv.io/x/gocv"
+	"github.com/xuxiaoshuo/gocv"
 )
 
 var (

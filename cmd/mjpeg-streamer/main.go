@@ -23,7 +23,7 @@ import (
 	"time"
 
 	"github.com/hybridgroup/mjpeg"
-	"gocv.io/x/gocv"
+	"github.com/xuxiaoshuo/gocv"
 )
 
 var (

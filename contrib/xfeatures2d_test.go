@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"gocv.io/x/gocv"
+	"github.com/xuxiaoshuo/gocv"
 )
 
 func TestSURF(t *testing.T) {

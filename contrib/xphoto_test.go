@@ -3,7 +3,7 @@ package contrib
 //:testing
 
 import (
-	"gocv.io/x/gocv"
+	"github.com/xuxiaoshuo/gocv"
 	"testing"
 )
 

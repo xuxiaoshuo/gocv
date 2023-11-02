@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/pascaldekloe/goe/verify"
-	"gocv.io/x/gocv"
+	"github.com/xuxiaoshuo/gocv"
 )
 
 func TestCanny_Detect(t *testing.T) {

@@ -3,7 +3,7 @@ package cuda
 import (
 	"testing"
 
-	"gocv.io/x/gocv"
+	"github.com/xuxiaoshuo/gocv"
 )
 
 func TestCudaMOG2(t *testing.T) {

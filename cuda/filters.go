@@ -11,7 +11,7 @@ import (
 	"image"
 	"unsafe"
 
-	"gocv.io/x/gocv"
+	"github.com/xuxiaoshuo/gocv"
 )
 
 // GaussianFilter

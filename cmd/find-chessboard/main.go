@@ -14,7 +14,7 @@ import (
 	"image"
 	"os"
 
-	"gocv.io/x/gocv"
+	"github.com/xuxiaoshuo/gocv"
 )
 
 func main() {

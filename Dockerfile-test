@@ -10,9 +10,9 @@ FROM ghcr.io/hybridgroup/opencv:4.8.1 AS gocv-test-4.7
 
 ENV GOPATH /go
 
-COPY . /go/src/gocv.io/x/gocv/
+COPY . /go/src/github.com/xuxiaoshuo/gocv/
 
-WORKDIR /go/src/gocv.io/x/gocv
+WORKDIR /go/src/github.com/xuxiaoshuo/gocv
 
 RUN go install github.com/rakyll/gotest@latest
 

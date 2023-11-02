@@ -6,7 +6,7 @@ package contrib
 */
 import "C"
 import (
-	"gocv.io/x/gocv"
+	"github.com/xuxiaoshuo/gocv"
 )
 
 // AnisotropicDiffusion performs anisotropic diffusion on an image.

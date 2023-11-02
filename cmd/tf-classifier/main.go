@@ -25,7 +25,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"gocv.io/x/gocv"
+	"github.com/xuxiaoshuo/gocv"
 )
 
 func main() {

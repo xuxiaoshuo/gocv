@@ -3,4 +3,4 @@
 //
 // For further details, please see:
 // https://software.intel.com/en-us/openvino-toolkit
-package ie // import "gocv.io/x/gocv/openvino/ie"
+package ie // import "github.com/xuxiaoshuo/gocv/openvino/ie"
